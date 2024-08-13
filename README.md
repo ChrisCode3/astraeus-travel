@@ -44,7 +44,7 @@ Astraeus Travel is brought to you by:
 
 * Adam (https://github.com/bowseruk/)
 * Anil (https://github.com/Skyline199/)
-* Christos (https://github.com/ChrisCode3/)
+* Chris (https://github.com/ChrisCode3/)
 * Claire (https://github.com/Ing3rs/)
 * Clarissa (https://github.com/RissaC2/)
 * Daisy (https://github.com/DaisyEverard/)
